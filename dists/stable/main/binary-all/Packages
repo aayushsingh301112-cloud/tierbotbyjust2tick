@@ -1,0 +1,14 @@
+Package: tierbotbyjust2tick
+Version: 0.1.0
+Architecture: all
+Maintainer: Just2Tick
+Depends: python3, python3-pip, supervisor
+Filename: apt-repo/pool/main/t/tierbotbyjust2tick/tierbotbyjust2tick.deb
+Size: 8668
+MD5sum: 10475da311779a0dda82e4abbaf279bf
+SHA1: f95d0c813b3a5e2eaf0e6978f933d454db1dc4fe
+SHA256: a829b255ff1752cd8959648779faed20970991f6abaab417e49806d8b68457f3
+Section: net
+Priority: optional
+Description: Just2Tick Discord Tier Testing Bot
+
